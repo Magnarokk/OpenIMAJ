@@ -341,7 +341,7 @@
 	<repositories>
 		<repository>
 			<id>imageterrier-snapshots</id>
-			<url>http://snapshots.imageterrier.org</url>
+			<url>https://snapshots.imageterrier.org</url>
 		</repository>
 	</repositories>
 </project>
